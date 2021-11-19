@@ -1,0 +1,4 @@
+Links = '//h2/a/@href'
+Título = '//div[@class="col order-2"]/h2/span/text()'
+Resumen = '//div[@class="lead"]/p/text()'
+Cuerpo = '//div[@class="html-content"]/p/text()'
